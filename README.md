@@ -13,4 +13,4 @@ A game software company approached you asking to design for them a software for 
 4.	The software should give to the user the option whether or not he wants to make the first move.
 Also, as the software is meant to be used by kids, the game should look simple, and not taking so too much time. For this purpose, the number of pile is set to one, and the number of objects should be set to 15,  and  each player can take only one, two, or three objects from the pile.
 
-The solution must contain a search technique must be used for the creation of the AI opponent
+The solution must contain a search technique to be used for the creation of the AI opponent
