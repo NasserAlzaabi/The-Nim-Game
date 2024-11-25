@@ -122,7 +122,7 @@ class NimGameApp: # includes all game mechanics
             self.status_label.config(text="Your Turn!")
 
     def minimax(self, piles, maximizing):
-        # minimax algo implementation
+        # minimax implementation
         if all(pile == 0 for pile in piles):
             return -1 if maximizing else 1  # AI wins: 1, AI loses: -1
 
